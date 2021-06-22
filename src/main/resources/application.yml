@@ -2,6 +2,11 @@
 server:
   port: 8761
 
+# Application configs
+app:
+  package:
+    base: in.aorder.discovery
+
 # Spring configs
 spring:
   application:
